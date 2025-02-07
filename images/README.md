@@ -1,1 +1,1 @@
-This is the directory for image hosting
+This is the directory for image hosting.
