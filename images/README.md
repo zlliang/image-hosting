@@ -1,1 +1,1 @@
-data:text/plain;base64,VGhpcyBpcyB0aGUgZGlyZWN0b3J5IGZvciBpbWFnZSBob3N0aW5n
+This is the directory for image hosting
